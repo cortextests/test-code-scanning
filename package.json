@@ -1,0 +1,24 @@
+{
+  "name": "dependabot-alerts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortextests/dependabot-alerts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cortextests/dependabot-alerts/issues"
+  },
+  "homepage": "https://github.com/cortextests/dependabot-alerts#readme",
+  "dependencies": {
+    "picomatch": "^1.0.0",
+    "react": "^15.7.0",
+    "redux": "3"
+  }
+}
