@@ -95,10 +95,10 @@ object-assign@^4.1.0, object-assign@^4.1.1:
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==
 
-picomatch@^1.0.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-1.2.0.tgz#ac60ec8b6ff5953a505de2fd5b2b0a1e1d7287e0"
-  integrity sha512-cMSUWLsIT8VCmIPlM87m5OASGmDnYJR2fEUIpOnuArPQY5p7kWfJ47wZtIOYHT8GJHo9B/QRr4m5mbsIXxZkMg==
+picomatch@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
+  integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
 promise@^7.1.1:
   version "7.3.1"

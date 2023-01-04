@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cortextests/dependabot-alerts#readme",
   "dependencies": {
-    "picomatch": "^1.0.0",
+    "picomatch": "^2.3.1",
     "react": "^15.7.0",
     "redux": "3"
   }
