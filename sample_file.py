@@ -1,1 +1,5 @@
-SAMPLE_KEY = "FAKE12345"
+def new_function(
+    number_1,
+    number_2
+):
+    return number_1 + number_2
