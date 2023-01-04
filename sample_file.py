@@ -10,4 +10,12 @@ def bad_function(
     input
 ):
    os.system(input)
-   return 1
+   return
+
+def bad_output_function(
+    input
+):
+    try:
+        return input + 1
+    except Exception as e:
+        print(e)
