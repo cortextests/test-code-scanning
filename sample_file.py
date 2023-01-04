@@ -1,4 +1,4 @@
-import os
+COMMAND_QUERY = "SELECT * FROM {input}"
 
 def new_function(
     number_1,
@@ -9,8 +9,7 @@ def new_function(
 def bad_function(
     input
 ):
-   os.system(input)
-   return
+   query = COMMAND_QUERY.format(input=input)
 
 def bad_output_function(
     input
