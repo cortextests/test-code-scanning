@@ -1,3 +1,4 @@
+import os
 COMMAND_QUERY = "SELECT * FROM {input}"
 
 def new_function(
@@ -7,9 +8,10 @@ def new_function(
     return number_1 + number_2
 
 def bad_function(
-    input
+    path
+    name
 ):
-   query = COMMAND_QUERY.format(input=input)
+   os.mkdir(path, name)
 
 def bad_output_function(
     input
@@ -18,3 +20,4 @@ def bad_output_function(
         return input + 1
     except Exception as e:
         print(e)
+    finally:
