@@ -19,6 +19,6 @@
   "dependencies": {
     "picomatch": "^1.0.0",
     "react": "^15.7.0",
-    "redux": "3"
+    "redux": "4"
   }
 }
